@@ -1,1 +1,1 @@
-console.log("Environment Link Successful!");
+console.log('Environment Link Successful!');
